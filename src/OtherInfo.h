@@ -1,0 +1,1 @@
+#define CHNAGED_OTHERINFO_H // To avoid multiple inclusions of this header file

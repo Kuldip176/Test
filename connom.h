@@ -1,1 +1,1 @@
-#define version = "0.1.0"s
+#define version = "0.2.0"s
